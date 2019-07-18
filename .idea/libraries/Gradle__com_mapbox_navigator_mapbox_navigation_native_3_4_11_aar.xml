@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mapbox.navigator:mapbox-navigation-native:3.4.11@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/mapbox-navigation-native-3.4.11.aar/4a4a0e6eda9ba8dbf00ab1c793c21ee4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/mapbox-navigation-native-3.4.11.aar/4a4a0e6eda9ba8dbf00ab1c793c21ee4/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
